@@ -1,4 +1,4 @@
-## Hi there 👋
+## I dev somethings.
 
 <!--
 **OHHI0321/OHHI0321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- The Main Developer of [Mave!].
